@@ -7,5 +7,12 @@
   [15, 18]            ]
 ]*/
 
-var list1 = [[1,3],[2,6],[8,10],[15,18]]
-console.log(list1)
+
+var mergeRanges = require('merge-ranges');
+console.log(mergeRanges([
+  [1, 3],
+  [2, 6],
+  [8, 10],
+  [15, 18]
+]));
+
