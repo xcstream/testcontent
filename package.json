@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/xcstream/testcontent#readme",
   "dependencies": {
-    "merge-ranges": "^1.0.2"
+    "merge-ranges": "^1.0.2",
+    "xspans": "^1.0.0"
   }
 }

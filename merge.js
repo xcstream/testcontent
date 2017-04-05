@@ -7,7 +7,6 @@
   [15, 18]            ]
 ]*/
 
-
 var mergeRanges = require('merge-ranges');
 console.log(mergeRanges([
   [1, 3],
@@ -15,4 +14,7 @@ console.log(mergeRanges([
   [8, 10],
   [15, 18]
 ]));
+
+
+
 
